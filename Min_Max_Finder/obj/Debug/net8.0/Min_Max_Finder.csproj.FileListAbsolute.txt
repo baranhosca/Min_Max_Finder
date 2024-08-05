@@ -1,0 +1,14 @@
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\bin\Debug\net8.0\Min_Max_Finder.exe
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\bin\Debug\net8.0\Min_Max_Finder.deps.json
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\bin\Debug\net8.0\Min_Max_Finder.runtimeconfig.json
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\bin\Debug\net8.0\Min_Max_Finder.dll
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\bin\Debug\net8.0\Min_Max_Finder.pdb
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.AssemblyInfoInputs.cache
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.AssemblyInfo.cs
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.csproj.CoreCompileInputs.cache
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.dll
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\refint\Min_Max_Finder.dll
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.pdb
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\Min_Max_Finder.genruntimeconfig.cache
+C:\Users\hscba\Documents\Programming\C# Lessons\Min_Max_Finder\obj\Debug\net8.0\ref\Min_Max_Finder.dll
